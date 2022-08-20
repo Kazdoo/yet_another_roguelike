@@ -9,6 +9,7 @@ import exceptions
 import setup_game
 import input_handlers
 
+"""test pour git"""
 
 def save_game(handler: input_handlers.BaseEventHandler, filename: str) -> None:
     """If the current event handler has an active Engine then save it."""
